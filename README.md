@@ -106,6 +106,9 @@ L'API appartient à [@15DKatz]([https://github.com/15Dkatz) et celle-ci se nomme
 
 
 
+## Problèmes connus
+- Les notifications Toast n'apparaissent pas si le téléphone a désactivé les notifications ( ne pas déranger ou autres ) . Il peut donc être nécessaire d'aller vérifier les paramètres de notifications de l'application en cas de dysfonctionnement des notifications Toast.
+
 
 
 
