@@ -1,0 +1,4 @@
+include ':VibrationModule'
+include ':HTTPHandler'
+include ':app'
+rootProject.name = "LumeenProjectJava"
